@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-20 años 😁<br>Graduado en Escuela Técnica UBA 🤓<br>Técnico en Tecnologías de la información y la comunicación.<br>Desarrollador Web JR 🤓🖥️
+<br>Graduado en Escuela Técnica UBA 🤓<br>Técnico en Tecnologías de la información y la comunicación.<br>Desarrollador Web JR 🤓🖥️
 
 
 ## 🌐 Socials:
