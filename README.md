@@ -1,6 +1,8 @@
 
 # 💫 About Me:
 <br>Graduado en Escuela Técnica UBA 🤓<br>Técnico en Tecnologías de la información y la comunicación.<br>Desarrollador Web JR 🤓🖥️
+<br>Estudiante de Analista Programador UAI<br>
+
 
 
 ## 🌐 Socials:
